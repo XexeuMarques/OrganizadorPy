@@ -8,7 +8,7 @@ from colorama import init, Fore, Style
 init()
 
 # Menssagem de alerta
-print(Fore.RED + "🔥 Lembre-se de escolher a pasta correta!!\n o diretorio escolhido poderar modificado 🔥\n" + Style.RESET_ALL)
+print(Fore.RED + "🔥 Lembre-se de escolher a pasta correta!!\n o diretorio escolhido poderar ser modificado 🔥\n" + Style.RESET_ALL)
 
 # Cria a interface gráfica para selecionar a pasta a ser organizada
 root = Tk()
@@ -29,10 +29,16 @@ directories = {
     "Gif": ["gif"],
     "Documentos e PDFs": ["doc", "docx", "pdf", "txt", "md"],
     "Livros, HQs, Outros": ["cbr", "cbz", "mobi", "epub"],
-    "Compactado": ["rar", "arj", "arj", "rar", "tar", "gz", "taz", "tgz"],
+    "Compactados": ["rar", "arj", "arj", "zip", "tar", "gz", "taz", "tgz"],
+    "ISOs": ["iso"],
+    "Roms - Super Nitendo": ["sfc", "smc"],
+    "Roms - Nitendo 64": ["z64", "n64"],
+    "Roms - Nitendo Switch": ["nsp"],
+    "Roms - Nitendo WiiU": ["wux"],
     "Áudios e Músicas": ["mp3", "wav", "Ogg"],
-    "Vídeos": ["mp4", "avi", "mpeg", "mov"],
+    "Vídeos": ["mp4", "avi", "mpeg", "webm", "mov", "mkv"],
     "Programas": ["py", "c", "cpp", "java", "exe"],
+    "Aplicativos Android": ["apk"],
     "Outros": [] #Arquivos em nem uma extenção mencionadas a cima e enviado para essa pasta
 }
 
