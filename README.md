@@ -2,11 +2,11 @@
   <img src="https://user-images.githubusercontent.com/40842474/227679247-153320c2-fc64-4113-af6e-e388d86dcbf1.png" alt="Logo" width="300" height="200" />
 </p>
 
-<h1 align="center"> ⭐ Organizador de Arquivos </h1>
+<h1 align="center"> 📁 Organizador de Arquivos 👨‍💻  </h1>
 
 <p align="center">
-  <b> ⭐Organizador de arquivos em Python</b> </br>
-  <sub> ⭐ Código em Python que organiza arquivos de acordo com suas extensões, movendo-os para diretórios específicos e gerando um relatório do processo.
+  <b> 🗂️O rganizador de arquivos em Python 🐍</b> </br>
+  <sub> ⭐ Código em Python que organiza arquivos de acordo com suas extensões, movendo-os para diretórios específicos e gerando um relatório do processo. 🐍💻📂
   <sub>
 </p>
 
@@ -14,15 +14,15 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 <p align="center">
-  <a href="#Introdução"> 🧩 Introdução </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Tela">  💻  Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Dependências"> 🧪 Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Introdução"> 👋 Introdução </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Tela">  🖥️  Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Dependências"> 📥 Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br/>
 
 <a id="Introdução"></a>
-## 🧩 Introdução 
+## 👋 Introdução 
 
   ***⠀⠀⠀⠀⭐ Este é um script em Python que organiza arquivos em uma pasta selecionada com base em suas extensões...***
 <br/> 
@@ -30,7 +30,7 @@
 
 </summary>
 <a id="Telas"></a>
-## 💻 Telas
+## 🖥️ Telas
 
 ⭐ Primeira tela ao Iniciar | ⭐ Conclusão |
 |---|---|
@@ -39,7 +39,7 @@
   
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-## 🧪 Dependências
+## 📥 Dependências
 > Requisitos para rotar o script...
 
 <br />   
